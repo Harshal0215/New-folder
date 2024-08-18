@@ -1,0 +1,8 @@
+*{
+    
+    box-sizing: border-box;
+}
+h1{
+    background-color: greenyellow;
+    color: rgb(188, 9, 45);
+}
